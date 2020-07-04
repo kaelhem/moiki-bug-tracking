@@ -1,7 +1,7 @@
 # moiki-bug-tracking
 Ce dépôt permet de lister les bugs rencontrés sur Moiki.
 
-## Je ne connais pas GitHub, mais j'aimerai remonter un problème
+## Je ne connais pas GitHub, mais j'aimerais remonter un problème
 Avant toute chose, il faut créer un compte.
 Ensuite il suffit d'aller dans la page [issues](https://github.com/kaelhem/moiki-bug-tracking/issues) et de cliquer sur le bouton _New issue_.
 
