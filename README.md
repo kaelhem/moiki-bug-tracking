@@ -1,5 +1,5 @@
 # moiki-bug-tracking
-Ce dépôt permet de lister les bugs rencontrés sur Moiki.
+Ce dépôt permet de lister les bugs rencontrés sur [Moiki](https://moiki.fr).
 
 ## Je ne connais pas GitHub, mais j'aimerais remonter un problème
 Avant toute chose, il faut créer un compte.
