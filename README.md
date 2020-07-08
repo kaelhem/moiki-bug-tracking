@@ -11,6 +11,6 @@ Tout d'abord, assurez-vous que le bug en question n'existe pas déjà dans la li
 Afin de faciliter la correction du bug rencontré il est fortement conseillé de renseigner ces informations :
 + description détaillée du problème (et éventuellement le scénario de reproduction si cela est nécessaire)
 + page/composant concerné (éditeur, player, ...)
-+ navigateur/OS où le problème est reproduit (et éventuellement sa version)
++ navigateur/OS où le problème est reproduit (et éventuellement versions)
 
 Pensez également à ajouter une capture d'écran si le bug est difficile à décrire.
