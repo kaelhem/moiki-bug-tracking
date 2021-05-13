@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/kaelhem/moiki-bug-tracking/master/logo.png)
 
-# moiki-bug-tracking
+> [english version](https://github.com/kaelhem/moiki-bug-tracking/en)
+
+# moiki-bug-tracking [FR]
 Ce dépôt permet de lister les bugs rencontrés sur [Moiki](https://moiki.fr).
 
 ## Je ne connais pas GitHub, mais j'aimerais remonter un problème
