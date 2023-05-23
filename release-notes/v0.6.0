@@ -1,0 +1,21 @@
+# V.0.6.0
+
+[criticals]
+* corrige un crash pouvant survenir dans les tutoriels interactifs
+* corrige un problème lors de la pré-visualisation des thèmes où les stats de jeu étaient accessibles (et provoquaient un crash)
+
+[fix]
+* corrige plusieurs problèmes liés à la création des routines via multi-sélection
+* corrige un problème qui empêchait la suppression et le changement de mode pour les histoires publiées avant la création du Social Club
+* corrige un problème empêchant l'ajout de variables dans le texte des choix en mode relecture
+
+[feats]
+* en mode expert, il est maintenant possible d'ajouter de l'aléatoire sur les compteurs et les variables de texte
+* il est maintenant possible de ré-ordonner les valeurs des variables de texte
+
+[improvements]
+* pour les utilisateurs ayant mis un avis il est maintenant possible d'ajouter plusieurs commentaires sur une histoire dans le Social Club (valable également pour l'auteur)
+* il n'est plus possible de supprimer un avis sur une histoire dans le Social Club
+* le tri par meilleure note des histoires du social club prend maintenant correctement en compte le nombre de notes
+* la taille de la police de l'IFID dans le player est légèrement plus petite
+* le rendu des actions et conditions dans le graph a été amélioré pour éviter les superpositions
