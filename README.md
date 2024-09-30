@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/kaelhem/moiki-bug-tracking/master/logo-dark-name.png)
+![](https://raw.githubusercontent.com/kaelhem/moiki-bug-tracking/master/logo.png)
 
 > [english version](https://github.com/kaelhem/moiki-bug-tracking/tree/master/en)
 
